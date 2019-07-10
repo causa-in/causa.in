@@ -1,0 +1,22 @@
+img {
+    max-width: 340px;
+}
+
+main {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 11px;
+    padding: 24px 0;
+    font-weight: 300;
+}
